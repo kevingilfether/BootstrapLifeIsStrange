@@ -57,3 +57,16 @@ h1.container#trailer {
 .previewThem {
     margin:auto;
 }
+
+/*Footer*/
+footer.disclaimer {
+    font-size:10px;
+    background-color: #E8D6CF;
+}
+
+p.bottomedOut {
+    margin-bottom:0px;
+    padding-left:5px;
+}
+
+

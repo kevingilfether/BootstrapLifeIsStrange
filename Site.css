@@ -19,3 +19,16 @@ h1.container {
     margin-top: 0px;
     padding-top: 5px;
 }
+/*Navbar*/
+nav#navvy.navbar.navbar-static-top{
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#FFF6F0;
+    background-color: #6A1525;
+}
+#navvy a{
+    color: #FFF6F0;
+}
+#navvy a:hover{
+    background:none;
+}
